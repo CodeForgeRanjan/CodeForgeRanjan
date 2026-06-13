@@ -48,8 +48,19 @@ An innovative **BGV IT Professional & Automation Specialist** focused on bridgin
 
 ### 🤖 Process Automation & Web Scraping
 <p align="left">
+ <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  </a>
+ <a href="https://www.youtube.com/watch?v=9URSbTOE4YI&list=PLEiEAq2VkUUIMai0l1LiX_ZgU51MkM5op" target="_blank">
   <img src="https://img.shields.io/badge/RPA%20(Automation)-🤖-cyan?style=for-the-badge" />
+ </a>
+  <a href="https://www.geeksforgeeks.org/web-scraping/introduction-to-web-scraping/" target="_blank">
   <img src="https://img.shields.io/badge/Web%20Scraping-🕸️-yellowgreen?style=for-the-badge" />
+  </a>
+   <a href="https://www.youtube.com/watch?v=Ttl09_eINVU" target="_blank">
+   <img src="https://img.shields.io/badge/Web%20Scraping-🕸️-yellowgreen?style=for-the-badge" />
+   </a>
+
   <img src="https://img.shields.io/badge/Excel%20%26%20VBA%20Macros-📊-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 </p>
