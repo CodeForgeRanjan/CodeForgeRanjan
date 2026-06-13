@@ -1,31 +1,40 @@
-# Hi there, I'm Rahul! 
+# Hi there, I'm Rahul! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=gradient&height=180&section=header&text=Data%20Automation%20&%20Analytics&fontSize=35&animation=fadeIn&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=gradient&height=180&section=header&text=Data%20Automation%20%26%20AI%20Engineering&fontSize=32&animation=fadeIn&fontAlignY=45" width="100%" />
 </p>
 
 ## 🚀 About Me
-An innovative **IT Data Specialist & Automation Engineer** focused on building high-performance local script utilities and interactive web dashboards. Specialized in converting slow manual office workflows (VBA/Excel) into robust, zero-dependency Python solutions.
+An innovative **BGV IT Professional & Automation Specialist** focused on bridging the gap between traditional enterprise data workflows and cutting-edge Generative AI. Specialized in transforming slow manual office operations (Excel/VBA Macros) into high-speed, secure **Local Python Pipelines** and interactive AI applications.
 
-- ⚡ **Current Focus:** Building secure data engineering pipelines & office automation utilities.
-- 🎓 **Education:** Pursuing Bachelor of Computer Applications (BCA).
+- ⚡ **Current Focus:** Deploying local LLMs using Ollama, building RAG frameworks, and optimizing BGV automation.
 - ⚙️ **Core Strategy:** Local-first server architecture to bypass enterprise firewalls (DLP/Zscaler).
 
 ---
 
 ## 🛠️ My Tech Stack & Toolkit
 
-### 🐍 Data Engineering & Automation
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### 🧠 Generative AI & Intelligent Automation
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20%26%20Generative%20AI-🤖-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG%20(Retrieval--Augmented)-📚-orange?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR%20(Document%20Extraction)-📄-purple?style=for-the-badge)
+
+### 🐍 Data Engineering & Cloud Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas%20(Cloud)-🟢-darkgreen?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🤖 Process Automation & Web Scraping
+![RPA](https://img.shields.io/badge/RPA%20(Automation)-🤖-cyan?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-🕸️-yellowgreen?style=for-the-badge)
+![Excel Macros](https://img.shields.io/badge/Excel%20%26%20VBA%20Macros-📊-green?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 ### 📊 Web Apps & Visualizations
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -43,7 +52,7 @@ An innovative **IT Data Specialist & Automation Engineer** focused on building h
 
 ### 📬 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-ranjan-28ba4426a/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
