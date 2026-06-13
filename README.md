@@ -1,7 +1,7 @@
 # Hi there, I'm Rahul! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=gradient&height=180&section=header&text=Data%20Automation%20%26%20AI%20Engineering&fontSize=32&animation=fadeIn&fontAlignY=45" width="100%" />
+ ![Banner](https://capsule-render.vercel.app/view?type=waving&color=gradient&height=180&section=header&text=Data%20Automation%20%26%20AI%20Engineering&fontSize=32&animation=fadeIn&fontAlignY=45)
 </p>
 
 ## 🚀 About Me
