@@ -58,7 +58,7 @@ An innovative **BGV IT Professional & Automation Specialist** focused on bridgin
   <img src="https://img.shields.io/badge/Web%20Scraping-🕸️-yellowgreen?style=for-the-badge" />
   </a>
    <a href="https://www.youtube.com/watch?v=Ttl09_eINVU" target="_blank">
-   <img src="https://img.shields.io/badge/Web%20Scraping-🕸️-yellowgreen?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Web%20Scraping-🕸️-grayish-blue?style=for-the-badge" />
    </a>
 
   <img src="https://img.shields.io/badge/Excel%20%26%20VBA%20Macros-📊-green?style=for-the-badge" />
