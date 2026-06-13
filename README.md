@@ -1,8 +1,8 @@
 # Hi there, I'm Rahul! 👋
 
 <p align="center">
- ![Banner](https://capsule-render.vercel.app/view?type=waving&color=gradient&height=180&section=header&text=Data%20Automation%20%26%20AI%20Engineering&fontSize=32&animation=fadeIn&fontAlignY=45)
-</p>
+ <!-- ![Banner](https://capsule-render.vercel.app/view?type=waving&color=gradient&height=180&section=header&text=Data%20Automation%20%26%20AI%20Engineering&fontSize=32&animation=fadeIn&fontAlignY=45)
+</p> -->
 
 ## 🚀 About Me
 An innovative **BGV IT Professional & Automation Specialist** focused on bridging the gap between traditional enterprise data workflows and cutting-edge Generative AI. Specialized in transforming slow manual office operations (Excel/VBA Macros) into high-speed, secure **Local Python Pipelines** and interactive AI applications.
