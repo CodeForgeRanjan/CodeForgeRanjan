@@ -16,7 +16,7 @@ An innovative **BGV IT Professional & Automation Specialist** focused on bridgin
 
 ### 🧠 Generative AI & Intelligent Automation
 <p align="left">
- <a href="https://docs.ollama.com/" target="_blank">
+ <a href="https://docs.ollama.com/" target="blank">
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
  </a>
  <a href="https://www.ibm.com/think/topics/machine-learning#7281535" target="_blank">
