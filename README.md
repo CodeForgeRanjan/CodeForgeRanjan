@@ -15,27 +15,45 @@ An innovative **BGV IT Professional & Automation Specialist** focused on bridgin
 ## 🛠️ My Tech Stack & Toolkit
 
 ### 🧠 Generative AI & Intelligent Automation
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/LLM%20%26%20Generative%20AI-🤖-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented)-📚-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/OCR%20(Document%20Extraction)-📄-purple?style=for-the-badge" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20%26%20Generative%20AI-🤖-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented)-📚-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR%20(Document%20Extraction)-📄-purple?style=for-the-badge" />
+</p>
 
 ### 🐍 Data Engineering & Cloud Databases
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB%20Atlas%20(Cloud)-🟢-darkgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas%20(Cloud)-🟢-darkgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
 ### 🤖 Process Automation & Web Scraping
-<img src="https://img.shields.io/badge/RPA%20(Automation)-🤖-cyan?style=for-the-badge" /> <img src="https://img.shields.io/badge/Web%20Scraping-🕸️-yellowgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Excel%20%26%20VBA%20Macros-📊-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/RPA%20(Automation)-🤖-cyan?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-🕸️-yellowgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel%20%26%20VBA%20Macros-📊-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+</p>
 
 ### 📊 Web Apps & Visualizations
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 My GitHub Analytics & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radial&hide_border=true" height="150" alt="stats card" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=radial&hide_border=true" height="150" alt="streak card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeForgeRanjan&show_icons=true&theme=radial&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeForgeRanjan&theme=radial&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radial&hide_border=true" height="140" alt="languages card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeForgeRanjan&layout=compact&theme=radial&hide_border=true" height="140" />
 </p>
 
 ---
@@ -43,6 +61,6 @@ An innovative **BGV IT Professional & Automation Specialist** focused on bridgin
 ### 📬 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/rahul-ranjan-28ba4426a/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
