@@ -16,18 +16,34 @@ An innovative **BGV IT Professional & Automation Specialist** focused on bridgin
 
 ### 🧠 Generative AI & Intelligent Automation
 <p align="left">
+ <a href="https://ollama.com/" target="_blank">
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+ </a>
+ <a href="https://www.ibm.com/topics/generative-ai" target="_blank">
   <img src="https://img.shields.io/badge/LLM%20%26%20Generative%20AI-🤖-blue?style=for-the-badge" />
+ </a>
+ <a href="https://aws.amazon.com/what-is/retrieval-augmented-generation/" target="_blank">
   <img src="https://img.shields.io/badge/RAG%20(Retrieval--Augmented)-📚-orange?style=for-the-badge" />
+ </a>
+ <a href="https://github.com/JaidedAI/EasyOCR" target="_blank">
   <img src="https://img.shields.io/badge/OCR%20(Document%20Extraction)-📄-purple?style=for-the-badge" />
+ </a>
 </p>
 
 ### 🐍 Data Engineering & Cloud Databases
 <p align="left">
+ <a href="https://www.mysql.com/products/mysqlai/" target="_blank">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+ </a>
+ <a href="https://www.mongodb.com/docs/" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+ </a>
+ <a href="https://cloud.mongodb.com/v2/67f506cbb9c5d76a8b1de850#/overview" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB%20Atlas%20(Cloud)-🟢-darkgreen?style=for-the-badge" />
+ </a>
+ <a href="https://pandas.pydata.org/docs/getting_started/index.html#coming-from" target="_blank">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+ </a>
 </p>
 
 ### 🤖 Process Automation & Web Scraping
