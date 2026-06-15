@@ -1,4 +1,4 @@
-# 💫 # Hi 👋, I'm Rahul Ranjan!
+# 💫 Hi 👋, I'm Rahul Ranjan!
 
 
 <p align="center">
