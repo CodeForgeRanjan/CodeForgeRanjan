@@ -1,4 +1,5 @@
-# Hi there, I'm Rahul! 👋
+💫 # Hi 👋, I'm Rahul Ranjan!
+
 
 <p align="center">
  <!-- ![Banner](https://capsule-render.vercel.app/view?type=waving&color=gradient&height=180&section=header&text=Data%20Automation%20%26%20AI%20Engineering&fontSize=32&animation=fadeIn&fontAlignY=45)
