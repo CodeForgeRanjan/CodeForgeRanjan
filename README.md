@@ -100,7 +100,7 @@ An innovative **BGV IT Analyst & Automation Specialist** focused on bridging the
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodeForgeRanjan&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CodeForgeRanjan&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
 </p>
 
 ---
