@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Rahul Ranjan!
 
 ## 🚀 About Me
-An innovative **BGV IT Professional & Automation Specialist** focused on bridging the gap between traditional enterprise data workflows and cutting-edge Generative AI. Specialized in transforming slow manual office operations (Excel/VBA Macros) into high-speed, secure **Local Python Pipelines** and interactive AI applications.
+An innovative **BGV IT Analyst & Automation Specialist** focused on bridging the gap between traditional enterprise data workflows and cutting-edge Generative AI. Specialized in transforming slow manual office operations (Excel/VBA Macros) into high-speed, secure **Local Python Pipelines** and interactive AI applications.
 
 - ⚡ **Current Focus:** Deploying local LLMs using Ollama, building RAG frameworks, and optimizing BGV automation.
 - ⚙️ **Core Strategy:** Local-first server architecture to bypass enterprise firewalls (DLP/Zscaler) and maintain absolute data privacy.
