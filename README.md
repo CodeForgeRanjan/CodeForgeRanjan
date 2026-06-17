@@ -1,10 +1,9 @@
 # 💫 Hi 👋, I'm Rahul Ranjan!
 
 ## 🚀 About Me
-An innovative **BGV IT Analyst & Automation Specialist** focused on bridging the gap between traditional enterprise data workflows and cutting-edge Generative AI. Specialized in transforming slow manual office operations (Excel/VBA Macros) into high-speed, secure **Local Python Pipelines** and interactive AI applications.
-
-- ⚡ **Current Focus:** Deploying local LLMs using Ollama, building RAG frameworks, and optimizing BGV automation.
-- ⚙️ **Core Strategy:** Local-first server architecture to bypass enterprise firewalls (DLP/Zscaler) and maintain absolute data privacy.
+**Automation Specialist** focused on building fast, secure, and scalable solutions. Transforming manual Excel and Macros into python pipelines. 
+- ⚡ **Current Focus:** Working and Deploying local LLMs using Ollama, RAG system and OCR into optimizing BGV automation.
+- ⚙️ **Core Strategy:** Build compliant and privacy-first architectures.
 
 ---
 
@@ -84,12 +83,11 @@ An innovative **BGV IT Analyst & Automation Specialist** focused on bridging the
 
 ---
 
-## 🛠️ Operational Engineering Highlights
+## 🛠️ My Work Highlights
 
-* 📈 **Automated Enterprise Queue Allocators:** Developed custom Python slicing algorithms to automatically clean, sort by ageing hours for SLA safety, and distribute hundreds of high-volume workload rows into balanced slots.
-* 📄 **Intelligent Document Extraction (OCR Engines):** Engineered streamlined extraction apps utilizing EasyOCR and Regular Expressions (Regex) to instantly capture specific structural data elements from multi-format identity records.
-* 🛡️ **Volatile Memory In-Memory Buffers:** Built data transformation structures executing exclusively in-memory (`io.StringIO` and `io.BytesIO`), providing absolute protection against unauthorized persistent disk-caching to comply with rigorous enterprise Data Loss Prevention (DLP) frameworks.
-
+* 📈 **Automated Enterprise Queue Allocators:** Designed Python slicing functions for automatic cleaning, sorting on *ageing* hours for SLA security, and allocation of hundreads+ of rows of high traffic workload into balanced queues.
+* 📄 **OCR Engines:** Designed extraction application for instant extraction of selected data fields from multi-format identity document using EasyOCR and Regular Expression(i.e, regex)
+* 🛡️ **In-Memory Data storage:** Developed in-memory only data processing structures using (`io.StringIO` and `io.BytesIO`), offering complete immunity to any unauthorized disk-caching to conform to enterprise DLP requirements.
 ---
 
 ## 📊 My GitHub Analytics & Activity
